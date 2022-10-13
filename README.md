@@ -8,7 +8,6 @@
 ## My study note website
 
 - Server in china: https://minimap.cc
-- GitHub pages: https://wanderqing.github.io/WebNote
 
 ## Github stats
 ![WanderQing's github stats](https://github-readme-stats.vercel.app/api?username=WanderQing&show_icons=true&theme=radical)
